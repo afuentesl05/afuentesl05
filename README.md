@@ -1,13 +1,21 @@
-## 🚀 Hey, I'm Álvaro
+## 🚀 Sobre mí
 
-- I'm 20 years old and currently studying a Double Degree in IT Engineering and Business Administration at UAH, Madrid, Spain
-- I'm a 4th year student, with one year left to finish my degree
-- I work with Python, Java, C, C++, Prolog and CUDA
-- I have developed projects using VS Code, Visual Studio 2019, IntelliJ IDEA, NetBeans and Android Studio
-- I have also built Android projects and enjoy combining software development with problem solving
-- I'm currently training on my own in cybersecurity to expand my technical profile
-- I speak Spanish, English and Japanese
-- I'm interested in software development, systems, cybersecurity and technology-driven business
+- 👨‍🎓 Estudiante de Doble Grado en Ingeniería Informática y Administración de Empresas (UAH, Madrid)
+- 4º año - 1 año para terminar
+
+**Lenguajes:** Python | Java | C | C++ | Prolog | CUDA
+
+**Entornos de desarrollo:**
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+
+- 📱 Desarrollo Android & Problem Solving
+- 🔐 Cybersecurity (formación autodidacta)
+- 🌍 Multilingüe: Español · English · 日本語
+- 🎯 Apasionado por: Software · Sistemas · Ciberseguridad · Tech Business
 
 ## GitHub Stats
 
