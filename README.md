@@ -28,3 +28,6 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alvarofuentesl/)
 [![github](https://img.shields.io/badge/github-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afuentesl05)
 [![tiktok](https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@studywithkoke)
+
+
+[Ver mi CV](D:\OneDrive - Universidad de Alcala\Escritorio\TRAMITES ADMINISTRATIVOS\CV\CV_ALVARO_FUENTES_LOZANO (1).pdf)
