@@ -21,7 +21,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=afuentesl05&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afuentesl05&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🔗 Links
 
