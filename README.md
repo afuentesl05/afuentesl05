@@ -30,4 +30,4 @@
 [![tiktok](https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@studywithkoke)
 
 
-[Ver mi CV](D:\OneDrive - Universidad de Alcala\Escritorio\TRAMITES ADMINISTRATIVOS\CV\CV_ALVARO_FUENTES_LOZANO (1).pdf)
+
