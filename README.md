@@ -27,6 +27,7 @@ I combine a technical background in software engineering with a business and pro
 - 💼 Currently working as a **Product Management Intern at UCI (Unión de Créditos Inmobiliarios)**.
 - 🎓 Entering the final year of the **Double Degree in Computer Engineering and Business Administration** at the **University of Alcalá (UAH)**.
 - 🔐 Particularly interested in **backend engineering, cybersecurity, Linux systems and DevSecOps**.
+- 🤖 My current academic focus explores how **LLMs can detect and remediate Docker and Kubernetes misconfigurations**.
 - 🌍 Native Spanish speaker, with English proficiency and Japanese in progress.
 
 ## Technical toolkit
