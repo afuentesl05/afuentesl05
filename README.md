@@ -9,13 +9,13 @@
 Madrid, Spain
 
 <a href="https://www.linkedin.com/in/alvarofuentesl/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://github.com/afuentesl05">
-  <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 <a href="https://www.tiktok.com/@studywithkoke">
-  <img src="https://img.shields.io/badge/TikTok-Study%20Content-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
 </a>
 
 </div>
@@ -27,7 +27,6 @@ I combine a technical background in software engineering with a business and pro
 - 💼 Currently working as a **Product Management Intern at UCI (Unión de Créditos Inmobiliarios)**.
 - 🎓 Entering the final year of the **Double Degree in Computer Engineering and Business Administration** at the **University of Alcalá (UAH)**.
 - 🔐 Particularly interested in **backend engineering, cybersecurity, Linux systems and DevSecOps**.
-- 🤖 My current academic focus explores how **LLMs can detect and remediate Docker and Kubernetes misconfigurations**.
 - 🌍 Native Spanish speaker, with English proficiency and Japanese in progress.
 
 ## Technical toolkit
