@@ -1,33 +1,75 @@
-## 🚀 Sobre mí
+<div align="center">
 
-- 👨‍🎓 Estudiante de Doble Grado en Ingeniería Informática y Administración de Empresas (UAH, Madrid)
-- 4º año - 1 año para terminar
+# Álvaro Fuentes Lozano
 
-**Lenguajes:** Python | Java | C | C++ | Prolog | CUDA
+### Computer Engineering & Business Administration
 
-**Entornos de desarrollo:**
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
-[![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/)
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+**Product Management Intern @ UCI** · Backend · Cybersecurity · Applied AI
 
-- 📱 Desarrollo Android & Problem Solving
-- 🔐 Cybersecurity (formación autodidacta)
-- 🌍 Multilingüe: Español · English · 日本語
-- 🎯 Apasionado por: Software · Sistemas · Ciberseguridad · Tech Business
+Madrid, Spain
 
-## GitHub Stats
+<a href="https://www.linkedin.com/in/alvarofuentesl/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/afuentesl05">
+  <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.tiktok.com/@studywithkoke">
+  <img src="https://img.shields.io/badge/TikTok-Study%20Content-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+</a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=afuentesl05&theme=tokyonight)](https://git.io/streak-stats)
+</div>
 
+## About me
 
+I combine a technical background in software engineering with a business and product perspective.
 
-## 🔗 Links
+- 💼 Currently working as a **Product Management Intern at UCI (Unión de Créditos Inmobiliarios)**.
+- 🎓 Entering the final year of the **Double Degree in Computer Engineering and Business Administration** at the **University of Alcalá (UAH)**.
+- 🔐 Particularly interested in **backend engineering, cybersecurity, Linux systems and DevSecOps**.
+- 🤖 My current academic focus explores how **LLMs can detect and remediate Docker and Kubernetes misconfigurations**.
+- 🌍 Native Spanish speaker, with English proficiency and Japanese in progress.
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alvarofuentesl/)
-[![github](https://img.shields.io/badge/github-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afuentesl05)
-[![tiktok](https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@studywithkoke)
+## Technical toolkit
 
+| Area | Technologies |
+| --- | --- |
+| **Programming** | Python · Java · C · C++ · Kotlin · Scala · Prolog · Bash scripting |
+| **Backend, data & IoT** | PostgreSQL · MongoDB · MQTT · REST APIs · Docker |
+| **Systems & computing** | Linux · Artix Linux · Parrot OS · Kali Linux · CUDA |
+| **Mobile & web** | Android · HTML · CSS |
+| **Development environments** | VS Code · Visual Studio · IntelliJ IDEA · NetBeans · Android Studio |
+| **Product & creative** | Figma · Wondershare Filmora · CapCut |
 
+## Current focus
 
+- Supporting product work in a cross-functional environment at **UCI**.
+- Deepening my knowledge of **backend development, cybersecurity and technical product management**.
+- Preparing a cybersecurity-focused final degree project around **LLM evaluation for DevSecOps configurations**.
+- Building projects that connect software, infrastructure, data and real-world product needs.
+
+## Selected projects
+
+### [Airline Data Processing Platform](https://github.com/afuentesl05/uah-781004-pap-airline-PL2)
+
+Functional data processing in **Scala**, connected to a **Node.js/Express REST API**, with persistence in **Azure Table Storage** and a web results viewer.
+
+`Scala` · `Node.js` · `Express` · `Azure` · `HTML/CSS/JavaScript`
+
+### [Urban Traffic Light IoT System](https://github.com/afuentesl05/uah-781002-urban-traffic-light-iot)
+
+End-to-end IoT system combining an **ESP32**, **MQTT messaging**, a containerized Java backend and an Android application for monitoring and control.
+
+`Java` · `Android` · `MQTT` · `Docker` · `MariaDB` · `ESP32`
+
+### [Airline CUDA](https://github.com/afuentesl05/uah-781004-pap-airline-cuda)
+
+Parallel data-processing project comparing sequential CPU execution with GPU kernels and analyzing the resulting performance improvement.
+
+`C++` · `CUDA` · `GPU Computing` · `Performance Analysis`
+
+---
+
+<div align="center">
+  <sub>Technology, business and product — approached as parts of the same problem.</sub>
+</div>
